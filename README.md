@@ -38,8 +38,8 @@
    $ expo start
    
    - To run the frontend app (web or mobile) you need to have the server running.
-
-
+  ```
+ 
 ## 📚 Learnings
 
 Consolidating concepts with React and TypeScript, knowing TailwindCSS, ReactNative and several libraries used in this project.
