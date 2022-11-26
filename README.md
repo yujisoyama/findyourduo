@@ -1,16 +1,20 @@
-# <p align="center"> Find your duo </p>
+# findyourduo
 
+Full stack project developed during the NLW eSports week of <a href="https://www.rocketseat.com.br" target="_blank">Rocketseat</a>. The application aims to connect people looking for new friends to play games together.
 
-<p align="center">Full stack project developed during the NLW eSports week of <a href="https://www.rocketseat.com.br" target="_blank">Rocketseat</a>. The application aims to connect people looking for new friends to play games together.</p>
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **findyourduo**
+| :label: Tecnologias | React, React Native, TypeScript, Prisma, Expo
+| :rocket: URL         | not live yet
 
-## <p align="center"> Web </p>
+## <p> Web </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/64661100/193414873-c10baf98-2471-4cd6-9f62-e983476ab323.png" /></p>
+![](https://user-images.githubusercontent.com/64661100/193414873-c10baf98-2471-4cd6-9f62-e983476ab323.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
+## <p> Mobile </p>
 
-## <p align="center"> Mobile </p>
-
-<p align="center"><img src="https://user-images.githubusercontent.com/64661100/193414936-61992944-42f8-4a58-8d24-a0a3a777023f.png" /></p>
+![](https://user-images.githubusercontent.com/64661100/193414936-61992944-42f8-4a58-8d24-a0a3a777023f.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 
 ## ▶️ Running locally
